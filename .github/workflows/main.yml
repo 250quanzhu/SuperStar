@@ -25,4 +25,4 @@ jobs:
           
       
       - name: Run main.py
-        run: python main.py -u 15722151532 -p qwertyui520 -l 中华优秀传统文化 #课程id，默认为心理课的
+        run: python main.py -u 18230963905 -p fhn12345 -l 中华优秀传统文化 #课程id，默认为心理课的
